@@ -117,3 +117,7 @@ text-align: center
 .card-text{
 color: black
 }
+.btn btn-primary{
+  padding:20px;
+
+}
